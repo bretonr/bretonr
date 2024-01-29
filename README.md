@@ -1,4 +1,6 @@
-### Hi there 👋
+### Rene Breton's github
+
+I’m a Professor of Astrophysics at the [Jodrell Bank Centre for Astrophysics](http://www.jb.man.ac.uk/) at [The University of Manchester](http://www.manchester.ac.uk/). You can visit my [university webpage](https://research.manchester.ac.uk/en/persons/rene.breton), my [personal webpage](https://www.renebreton.org) or my [ORCID profile](https://orcid.org/0000-0001-8522-4983).
 
 <!--
 **bretonr/bretonr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
